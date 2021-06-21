@@ -14,3 +14,9 @@ TECHNOLOGY STACK:
 -> Back-end : PHP
 
 ->Database : MySQL
+
+HOSTING PALTFORM -> 000Webhost
+
+Website Link:https://grip-project.000webhostapp.com/
+
+Contact:https://www.linkedin.com/in/nehal-tembhurne-92b4511a2/?locale=en_US
