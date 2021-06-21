@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+  
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    padding: 8px;
+}
+.topnav a{
+    
+	float: left;		
+    display: block;
+    color:#010114;
+    text-align: center;
+    /* padding: 8px 10px; */
+    text-decoration: none;
+    text-transform:uppercase;
+}
+.links{
+    float: right;
+}
+.links i{
+  font-size: 30px;
+}
+/* .topnav a {
+    
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+  
+.topnav a.active {
+    background-color: #aa04a2;
+    color: white;
+} */
+  
+/*///   home section   ///*/
+section div{
+      display: block;
+      
+}
+.intro{
+      background-color: aquamarine;
+      height: 380px;
+      width: 100%;
+      display: flex;
+
+}
+.intro p{
+    width: 50%;
+    font-size: 30px;
+    text-align: center;
+    /* padding-left: 200px; */
+}
+.intro h1{
+    width: 50%;
+    font-size: 100px;
+    text-align: center;
+}
+.item{
+    overflow: hidden;
+      height: 250px;
+      display: flex;
+      /* word-spacing: 125px; */
+}
+.item i {
+      font-size: 100px;
+      /* padding: 50px 0px 0px 300px; */
+      /* letter-spacing: 100px; */
+      padding: 40px 200px;
+      text-align: center;
+      
+}
+.item a{
+    font-size: 10px;
+    padding: 40px 200px;
+    text-align: center;
+}
+.item button{
+    /* width: 250px;
+    height:50px; */
+    display: inline-block;
+    background: transparent;
+    font-weight:bold;
+    padding: 0px 10px;
+    /* margin-left: 600px !important; */
+    color: rgb(0, 0, 0);
+    font-family: "Roboto", sans-serif;
+    /* margin-left: 600px; */
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 30px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    outline: none !important;
+    box-shadow: none !important;
+    text-align: center;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 300ms linear 0s; 
+}
+
+.item button:hover {
+    background: rgb(74, 2, 156);
+    color: rgb(255, 255, 255);
+}

@@ -1,0 +1,29 @@
+.item button{
+    /* width: 250px;
+    height:50px; */
+    display: inline-block;
+    background: transparent;
+    font-weight:bold;
+    padding: 0px 10px;
+    /* margin-left: 600px !important; */
+    color: rgb(0, 0, 0);
+    font-family: "Roboto", sans-serif;
+    /* margin-left: 600px; */
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 30px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    outline: none !important;
+    box-shadow: none !important;
+    text-align: center;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 300ms linear 0s; 
+}
+
+.item button:hover {
+    background: rgb(74, 2, 156);
+    color: rgb(255, 255, 255);
+}
